@@ -20,3 +20,5 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
 (ใส่ URL ที่นี่)
+https://00wu7x-3000.preview.csb.app/
+
